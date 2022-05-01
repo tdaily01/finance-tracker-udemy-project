@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Finance Tracker app from The Complete Ruby on Rails Developer Course on Udemy
